@@ -1,24 +1,78 @@
-{
-  "speakers": [{
-    "title" : "Art in Full Bloom",
-    "name": "Lorenzo Garcia",
-    "shortname" : "Lorenzo_Garcia",
-    "summary" : "Drawing and painting flowers may seem like a first-year art student's assignment, but Lorenzo Garcia brings depth, shadows, light, form and color to new heights with his unique and revolutionary technique of painting on canvas with ceramic glaze. This session is sure to be a hit with mixed media buffs.",
-    "description": "<p>Lorenzo was born in Mexico, but grew up in Southern California after his mother immigrated to Los Angeles when he was a year old. His mother worked as a seamstress in the Fashion District and brought home scrap materials for Lorenzo to create his early mixed media art. From that point on, Lorenzo became hooked on creating art from scrap metals, fabrics, wood, canvas, and many others. During his junior year at Bischon Art School in Los Angeles, he perfected his own proprietary method of painting on canvas with ceramic glaze, which he will demonstrate on Monday in his session, 'Art in Full Bloom'.</p><p>Lorenzo paints with an extraordinary amount of color, and prefers to create art centered around nature, animals, and science. Now in his senior year at Bischon, Lorenzo has been creating mixed media totem poles made from old telephone poles, and other recycled materials, and is already planning his next new technique that will likely inspire a trend for years to come.</p>",
-    "artwork": ["Lorenzo_Garcia_01_tn.jpg", "Lorenzo_Garcia_02_tn.jpg", "Lorenzo_Garcia_03_tn.jpg", "Lorenzo_Garcia_04_tn.jpg"]
-  },{
-    "title" : "Deep Sea Wonders",
-    "name": "Hilary Goldywynn Post",
-    "shortname" : "Hillary_Goldwynn",
-    "summary": "Hillary is a sophomore art sculpture student at New York University, and has won the major international prizes for painters, including the Divinity Circle and the International Painter's Medal. Hillary's exhibit features paintings that contain only water including waves, deep sea, and river.",
-    "description": "<p>Hillary is a sophomore art sculpture student at New York University, and has already won all the major international prizes for new painters, including the Divinity Circle, the International Painter's Medal, and the Academy of Paris Award. Hillary's CAC exhibit features paintings that contain only water images including waves, deep sea, and river.</p><p>An avid water sports participant, Hillary understands the water in many ways in which others do not, or may not ever have the opportunity. Her goal in creating the CAC exhibit was to share with others the beauty, power, and flow of natural bodies of water throughout the world. In addition to the display, Hilary also hosts a session on Tuesday called Deep Sea Wonders, which combines her love of deep sea diving and snorkeling, with instruction for capturing the beauty of underwater explorations on canvas.</p>",
-    "artwork" : ["Hillary_Goldwynn_01_tn.jpg" , "Hillary_Goldwynn_02_tn.jpg" , "Hillary_Goldwynn_03_tn.jpg" , "Hillary_Goldwynn_04_tn.jpg" , "Hillary_Goldwynn_05_tn.jpg" , "Hillary_Goldwynn_06_tn.jpg" , "Hillary_Goldwynn_07_tn.jpg"]
-  },{
-    "title" : "The Art of Abstract",
-    "name": "Riley Rudolph Rewington",
-    "shortname" : "Riley_Rewington",
-    "summary": "The leader of the MMA artistic movement in his hometown of Portland, Riley Rudolph Rewington draws a crowd wherever he goes. Mixing street performance, video, music, and traditional art, Riley has created some of the most unique and deeply poignant abstract works of his generation.",
-    "description": "<p>Riley started out as musician and street performance artist, and now blends painting and photography with audio, video, and computer multimedia to create what he calls 'Music and Multimedia Artworks.' Riley's innovations in using multimedia to express art have created a youth culture movement in his town of Portland, in which he remains at the forefront. In his role as the founder of the MMA art form, Riley has become an inspiration to many up and coming artists. However, the part Riley insists is most important to him, is that he's helped many troubled youth take control of their lives, and create their own unique, positive futures. Seeing kids he's mentored graduate from high school and enroll in college, gives art the purpose that Riley so craves.</p><p>A first-year student at the Roux Academy of Art, Media, and Design, Riley is already changing the face of modern art at the university. Riley's exquisite abstract pieces have no intention of ever being understood, but instead beg the viewer to dream, create, pretend, and envision with their mind's eye. Riley will be speaking on the 'Art of Abstract' during Thursday's schedule.</p>",
-    "artwork" : ["Riley_Rewington_01_tn.jpg","Riley_Rewington_02_tn.jpg","Riley_Rewington_03_tn.jpg","Riley_Rewington_04_tn.jpg","Riley_Rewington_05_tn.jpg","Riley_Rewington_06_tn.jpg"]
-  }]
+{"data":
+  {
+    "bgImage": "http://travelchannel.sndimg.com/content/dam/images/travel/fullset/2015/06/11/nj-best-beaches/point-pleasant-beach-boardwalk-new-jersey.jpg.rend.tccom.1280.960.jpeg",
+    "highlights":[
+      {"id":"1",
+        "site":"Absecon Lighthouse",
+        "category":"Museum",
+        "info": "Absecon Lighthouse was first lit on January 15, 1857.  It is the tallest lighthouse in New Jersey and is on the National Register of Historic Places, the Historic American Buildings Survey, and the New Jersey Register of Historic Places.  It is located in Atlantic City and overlooks Absecon Inlet.",
+        "lat": "39.3662566",
+        "long": "-74.4164845",
+        "image": "http://i.imgur.com/iHtV9ir.jpg",
+        "video": "https://www.youtube.com/?watchv=QauZpcP6Tz0",
+        "videoEmbed": "https://www.youtube.com/embed/QauZpcP6Tz0"
+      },
+      {"id":"2",
+        "site":"Thomas Edison National Historical Park",
+        "category":"National Park",
+        "info": "Explore the life and work of Thomas Edison at this US National Park located on Main Street in West Orange.  Visitors can tour Glenmont, Edison's home.  The house has 29 rooms, as well as several other buildings, including a barn and a greenhouse.  Visitors can also see Edison's laboratory and some of the materials associated with the creation of the phonograph and early lightbulbs.",
+        "lat": "40.7841361",
+        "long": "-74.2332214",
+        "image": "http://i.imgur.com/fpdLIH5.jpg",
+        "video": "https://www.youtube.com/watch?v=T4BC65u_4UM",
+        "videoEmbed": "https://www.youtube.com/embed/T4BC65u_4UM"
+      },
+      {"id":"3",
+        "site":"Battleship New Jersey",
+        "category":"Museum",
+        "info": "Tour the Battleship New Jersey, the most decorated battleship in the history of the United States Navy.  The USS New Jersey served in World War II, Korea, and Vietnam.  The ship now acts as a museum located in Camden.  Visitors can tour the ship, and groups can even stay overnight.",
+        "lat": "39.9394484",
+        "long": "-75.1330734",
+        "image": "http://i.imgur.com/HkgNxtd.jpg",
+        "video": "https://www.youtube.com/watch?v=i4dnmfCa0is",
+        "videoEmbed": "https://www.youtube.com/embed/i4dnmfCa0is"
+      },
+      {"id":"4",
+        "site":"Ellis Island",
+        "category":"Museum",
+        "info": "From 1892 until 1954, Ellis Island operated as a destination point for immigrants to the United States.  Over 12 million immigrants passed through Ellis Island in that time, and it is now a US National Monument, a New York City Landmark, and on the US National Register of Historic Places, as well as the New Jersey Register of Historic Places.  For many years it was debated whether Ellis Island belonged to New York or New Jersey, but in 1998 the US Supreme Court ruled that 90% of Ellis Island belonged to New Jersey.  Visitors can tour Ellis Island after taking off from Jersey City.",
+        "lat": "40.7082127",
+        "long": "-74.0382124",
+        "image": "http://i.imgur.com/5gzzLDT.jpg",
+        "video": "https://www.youtube.com/watch?v=HGkqh-iwS28",
+        "videoEmbed": "https://www.youtube.com/embed/HGkqh-iwS28"
+      },
+      {"id":"5",
+        "site":"Liberty Science Center",
+        "category":"Activities",
+        "info": "Liberty Science Center, located in Jersey City, boasts 12 exhibition halls, a live animal collection, aquariums, a 3D theater, and the world's biggest IMAX Dome Theater, as well as classrooms and labs.  The LSC offers activities for people of all ages, as well as educational programs for students and teachers.",
+        "lat": "40.7082359",
+        "long": "-74.0547097",
+        "image": "http://i.imgur.com/fV5YM7b.jpg",
+        "video": "https://www.youtube.com/watch?v=0YEsIS5oUag",
+        "videoEmbed": "https://www.youtube.com/embed/0YEsIS5oUag"
+
+      },
+      {"id":"6",
+        "site":"Morristown National Historical Park",
+        "category":"National Park",
+        "info": "Morristown National Historical Park commemorates the legacy of George Washington and the American Revolution.  Washington and his troops camped in Morristown from December 1779 until June 1780.  The 1779-1780 winter was the coldest of the American Revolution.  The park maintains museums, and visitors can hike through Jockey Hollow and the Revolutionary War Winter Encampment.  The park is also part of the larger Washington-Rochambeau Revolutionary Route National Historic Trail, which runs from Virginia to Massachusetts and commemorates the joining of the Continental Army and the French Army, which was under the command of General Rochambeau.  The trail runs almost 700 miles, marking the largest troop movement of the American Revolution.",
+        "lat": "40.7970923",
+        "long": "-74.4659376",
+        "image": "http://i.imgur.com/tCHynvv.jpg",
+        "video": "https://www.youtube.com/watch?v=EdfWgCyqUWE",
+        "videoEmbed": "https://www.youtube.com/embed/EdfWgCyqUWE"
+      },
+      {"id":"7",
+        "site":"Steel Pier",
+        "category":"Activities",
+        "info": "The Steel Pier, located in Atlantic City, opened on June 18, 1898.  The pier provided entertainment in the form of dance bands, movie theaters, exhibits, stunts, and shows.  John Philip Sousa even played a series of annual concerts at the pier.  Miss America was crowned at the Steel Pier from 1935-1938, and Frank Sinatra and Diana Ross and The Supremes performed at the pier.  Today, the Steel Pier is an amusement park with rides, arcade games, and food.",
+        "lat": "39.357409",
+        "long": "-74.41896,15",
+        "image": "http://i.imgur.com/1F2dZuB.jpg",
+        "video": "https://www.youtube.com/watch?v=YbN9nwrAbFs",
+        "videoEmbed": "https://www.youtube.com/embed/YbN9nwrAbFs"
+      }
+    ]
+  }
 }
